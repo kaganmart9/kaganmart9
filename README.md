@@ -21,6 +21,9 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href=""></a></li>
+<li><a target="_blank" href="https://github.com/kaganmart9/stm32_ads1115">STM32 and Python Data Acquisition System</a></li>
+<li><a target="_blank" href="https://github.com/kaganmart9/UDP-Communicator">UDP Message Transmitter and Receiver</a></li>
+<li><a target="_blank" href="https://github.com/kaganmart9/team_website">Çukurova University 1.5 Adana Student Teams Website</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/kaganmart9" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.codepen.io/kaganmart9" style="display: inline-block;"><img src="https://img.shields.io/badge/codepen?style=for-the-badge&logo=codepen&logoColor=white&color=black" alt="codepen" /></a></p>
