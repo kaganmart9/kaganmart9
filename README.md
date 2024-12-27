@@ -20,7 +20,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href=""></a></li>
+
 <li><a target="_blank" href="https://github.com/kaganmart9/stm32_ads1115">STM32 and Python Data Acquisition System</a></li>
 <li><a target="_blank" href="https://github.com/kaganmart9/UDP-Communicator">UDP Message Transmitter and Receiver</a></li>
 <li><a target="_blank" href="https://github.com/kaganmart9/team_website">Çukurova University 1.5 Adana Student Teams Website</a></li>
