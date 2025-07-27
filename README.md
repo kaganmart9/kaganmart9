@@ -20,6 +20,16 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
+  
+<li>
+  <a target="_blank" href="https://github.com/kaganmart9/CAN2Go-Mobile">
+    <b>CAN2Go Mobile – BLE-based Vehicle Telemetry App</b>
+    <br>
+    <img src="https://raw.githubusercontent.com/kaganmart9/CAN2Go-Mobile/main/assets/logo.png" alt="CAN2Go Mobile Logo" width="80" />
+    <br>
+    <i>Realtime vehicle battery monitoring, error logging and BLE communication app developed at Temsa Skoda</i>
+  </a>
+</li>
 
 <li><a target="_blank" href="https://github.com/kaganmart9/stm32_ads1115">STM32 and Python Data Acquisition System</a></li>
 <li><a target="_blank" href="https://github.com/kaganmart9/UDP-Communicator">UDP Message Transmitter and Receiver</a></li>
