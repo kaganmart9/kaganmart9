@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Ali Kağan 👋</h1>
 <p align="center">
   <em>Data-Centric Software Engineer | EEE Graduate | Pythonista | Tech Explorer</em>
@@ -111,4 +110,3 @@ This helps me deepen my expertise in **data simulation**, **real-time processing
 <p align="center">
   🌟 <em>Always building, always learning.</em> 🌟
 </p>
-```
