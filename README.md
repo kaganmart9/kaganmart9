@@ -8,7 +8,7 @@
 ### 🌟 About Me
 
 - 🎓 I'm a 25-year-old Electrical & Electronics Engineer from **Turkey**.
-- 💻 I currently work as a **data-centric software engineer**, building data pipelines, analysis tools, and deployment systems.
+- 💼 Previously worked as a **Software Engineer at TEMSA Skoda**, where I built real-time data systems using Python — focusing on embedded telemetry, visualization, deployment, and predictive analytics in production-grade environments.
 - 🚀 I'm passionate about solving real-world problems through **data**, whether it's **analysis**, **machine learning**, or **deployment**.
 - ⚛️ I’m continuously learning and working towards becoming highly skilled in **data science** and **AI/ML model deployment**.
 
@@ -36,6 +36,19 @@
 
 ---
 
+### 📚 Learning Now
+
+I'm currently focused on simulating data pipelines end-to-end:  
+- Generating synthetic data for realistic use cases  
+- Deploying mock APIs or stream sources (e.g., via Flask/FastAPI or message queues)  
+- Storing & processing data using modern tools (Docker, Airflow, SQL, Pandas)  
+- Applying analytics and building prediction models on top of deployed pipelines  
+- Integrating **OpenCV** into projects for real-world data enrichment and visual processing use cases  
+
+This helps me deepen my expertise in **data simulation**, **real-time processing**, and **machine learning deployment** — key areas for a future-ready data professional.
+
+---
+
 ### 🏼️📌 Featured Projects
 
 - 🚗 [CAN2GO Mobile](https://github.com/kaganmart9/can2go-mobile)  
@@ -46,6 +59,16 @@
 
 - 🌐 [Team Website](https://github.com/kaganmart9/team_website)  
   Lightweight multi-page team portfolio website using HTML, CSS and basic JS. Great for engineering project showcases.
+
+---
+
+### 🌍 Languages
+
+- 🇹🇷 **Turkish**: Native speaker
+- 🇬🇧 **English**: Advanced (C1)  
+  iTEP Business: 4.7 / 5.5, IELTS Academic: 7.5 / 9
+- 🇩🇪 **German**: Upper-beginner  
+  Able to hold basic daily conversations and navigate everyday situations
 
 ---
 
@@ -76,6 +99,13 @@
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaganmart9&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaganmart9&layout=compact&theme=radical" />
+</p>
 
 <p align="center">
   🌟 <em>Always building, always learning.</em> 🌟
