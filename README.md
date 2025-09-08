@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi 👋! My name is Ali Kagan and I'm a Data Professional from Turkey</h2>
 
 ###
 
@@ -60,11 +60,5 @@
 ###
 
 <p align="left">I'm going to use all my tools, my God-given ability, and make the best life I can with it.</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnJzYnRrYXAyYXMxMGNudHNpOW1raWVtZTNzcnZzejdtYmo2bjlkayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/bMJqfOtgVEyI2PLnaW/giphy.gif"  />
-</div>
 
 ###
