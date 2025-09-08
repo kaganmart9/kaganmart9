@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ali Kağan 👋</h1>
+<h1 align="center">Hi, I'm Ali Kagan 👋</h1>
 <p align="center">
   <em>Data-Centric Software Engineer | EEE Graduate | Pythonista | Tech Explorer</em>
 </p>
@@ -22,15 +22,16 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4c4c4c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -39,8 +40,8 @@
 
 - 🔄 End-to-end **data pipelines** with Python, SQL, and Bash.
 - 🪡 Applied **data analysis** & **visualization** with Pandas, Seaborn, Matplotlib.
-- 🤖 Building & deploying ML models using **PyTorch** and **OpenCV**.
-- ⚖️ Exploring scalable systems using **AWS** and **Docker**.
+- 🤖 Building & deploying ML models using **OpenCV** and **Jupyter**.
+- ⚖️ Exploring scalable systems using **AWS**, **Docker**, and **Airflow**.
 
 ---
 
@@ -66,3 +67,4 @@
 <p align="center">
   🌟 <em>Always building, always learning.</em> 🌟
 </p>
+```
