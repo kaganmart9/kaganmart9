@@ -59,6 +59,6 @@
 
 ###
 
-<p align="left">I'm going to use all my tools, my God-given ability, and make the best life I can with it.</p>
+<h1 align="center">I'm going to use all my tools, my God-given ability, and make the best life I can with it.</h1>
 
 ###
