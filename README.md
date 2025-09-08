@@ -36,6 +36,19 @@
 
 ---
 
+### 🏼️📌 Featured Projects
+
+- 🚗 [CAN2GO Mobile](https://github.com/kaganmart9/can2go-mobile)  
+  Real-time CAN bus monitoring mobile app built with Kivy. Designed for telemetry visualization and embedded diagnostics.
+
+- 🔧 [STM32 + ADS1115 Integration](https://github.com/kaganmart9/stm32_ads1115)  
+  C-based microcontroller project that interfaces STM32 with ADS1115 ADC via I2C. Clean driver-level implementation.
+
+- 🌐 [Team Website](https://github.com/kaganmart9/team_website)  
+  Lightweight multi-page team portfolio website using HTML, CSS and basic JS. Great for engineering project showcases.
+
+---
+
 ### 🚀 What I'm Working On
 
 - 🔄 End-to-end **data pipelines** with Python, SQL, and Bash.
@@ -67,4 +80,3 @@
 <p align="center">
   🌟 <em>Always building, always learning.</em> 🌟
 </p>
-```
