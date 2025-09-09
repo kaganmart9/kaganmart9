@@ -66,7 +66,7 @@ This helps me deepen my expertise in **data simulation**, **real-time processing
 
 - 🇹🇷 **Turkish**: Native speaker
 - 🇬🇧 **English**: Advanced (C1)  
-  iTEP Business: 4.7 / 5.5, IELTS Academic: 7.5 / 9
+  iTEP Business: 4.7 / 5.5
 - 🇩🇪 **German**: Upper-beginner  
   Able to hold basic daily conversations and navigate everyday situations
 
