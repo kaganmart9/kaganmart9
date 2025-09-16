@@ -59,7 +59,7 @@ This helps me deepen my expertise in **data simulation**, **real-time processing
   C-based microcontroller project that interfaces STM32 with ADS1115 ADC via I2C. Clean driver-level implementation.
 
 - ✈️ [Airline Passenger Satisfaction Analysis](https://github.com/DataForgeLabs01/airline-passenger-satisfaction-data-analysis)  
-  Comprehensive data analysis project exploring factors influencing airline passenger satisfaction. Collaborated with [ahakanortacbayram](https://github.com/ahakanortacbayram) under the DataForgeLabs01 organization.
+  Comprehensive data analysis project exploring factors influencing airline passenger satisfaction.
 
 ---
 
