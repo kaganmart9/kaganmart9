@@ -39,6 +39,7 @@
 ### 📚 Learning Now
 
 I'm currently focused on simulating data pipelines end-to-end:  
+
 - Generating synthetic data for realistic use cases  
 - Deploying mock APIs or stream sources (e.g., via Flask/FastAPI or message queues)  
 - Storing & processing data using modern tools (Docker, Airflow, SQL, Pandas)  
@@ -57,8 +58,8 @@ This helps me deepen my expertise in **data simulation**, **real-time processing
 - 🔧 [STM32 + ADS1115 Integration](https://github.com/kaganmart9/stm32_ads1115)  
   C-based microcontroller project that interfaces STM32 with ADS1115 ADC via I2C. Clean driver-level implementation.
 
-- 🌐 [Team Website](https://github.com/kaganmart9/team_website)  
-  Lightweight multi-page team portfolio website using HTML, CSS and basic JS. Great for engineering project showcases.
+- ✈️ [Airline Passenger Satisfaction Analysis](https://github.com/DataForgeLabs01/airline-passenger-satisfaction-data-analysis)  
+  Comprehensive data analysis project exploring factors influencing airline passenger satisfaction. Collaborated with [ahakanortacbayram](https://github.com/ahakanortacbayram) under the DataForgeLabs01 organization.
 
 ---
 
